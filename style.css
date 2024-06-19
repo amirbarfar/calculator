@@ -34,6 +34,7 @@
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
     cursor: pointer;
+    user-select: none;
 }
 
 
