@@ -1,5 +1,5 @@
 {
-  "name": "worker-name",
+  "name": "calculator",
   "compatibility_date": "2025-03-30",
   "assets": {
     "directory": "./dist"
